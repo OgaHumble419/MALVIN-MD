@@ -18,7 +18,6 @@ AUTO_REPLY: process.env.AUTO_REPLY || "true", //add true or false
 ANTI_LINK: process.env.ANTI_LINK || "true", //add true or false
 ANTI_BAD: process.env.ANTI_BAD || "true", //add true or false
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true", //add true or false
-FAKE_TEXTING: process.env.FAKE_TEXTING || "true", //add true or false
 AUTO_REACT: process.env.AUTO_REACT || "true", //add true or false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //add true or false
 ///=================When editing, do not accidentally delete anything. !!API-CONFIG=================================
