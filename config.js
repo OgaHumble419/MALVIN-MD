@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "DFsRxC5Q#vPk0Ovc46-wtKJ69sap0RkPv2mJ9g-YJTzliZLsrY5I",  // ADD Your Session Id 
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
@@ -28,5 +28,5 @@ PASTEBIN_API_KEY: process.env.PASTEBIN_API_KEY || "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJ
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 ///=================When editing, do not accidentally delete anything !!ALIVE-CONFIG================================
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/gdvaaw.jpg", //add alive img url
-ALIVE_MSG: process.env.ALIVE_MSG || "how far na yor guy precious dey talk any update bro ?", //add alive msg
+ALIVE_MSG: process.env.ALIVE_MSG || "how far na yor guy Pablo dey talk any update bro ?", //add alive msg
 };
